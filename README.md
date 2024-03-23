@@ -1,6 +1,9 @@
+### Hello, My name is Hanbyeol Yu 👋👋
+### I'm Frontend Developer
+---
 ### 💻 Tech Skill
 * `HTML` `CSS` `JavaScript` `TypeScript` `ReactJS`
----
+<br>
 
 ### 💻 제일 많이 사용한 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayched&layout=compact)
