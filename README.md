@@ -2,7 +2,7 @@
 ### I'm Frontend Developer
 ---
 ### 💻 Tech Skill
-* `HTML` `CSS` `JavaScript` `ReactJS`
+* `HTML` `CSS` `JavaScript` `ReactJS` `NextJS`
 <br>
 
 ### 💻 제일 많이 사용한 언어
