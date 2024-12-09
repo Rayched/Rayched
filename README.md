@@ -1,4 +1,4 @@
-### 사소한 것도 기록으로 남기고 싶어하는, 개발자 유한별입니다.
+### 사진 찍는 것을 좋아하는 프론트엔드 취준생 유한별 입니다.
 ---
 ### 💻 Tech Skill
 *  `TypeScript`, `ReactJS`, `react-query`, `recoil`
