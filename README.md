@@ -1,8 +1,10 @@
 ### 사진 찍는 것을 좋아하는 프론트엔드 취준생 유한별 입니다.
 ---
-### 💻 Tech Skill
-*  `JavaScript`, `TypeScript`
-*  `ReactJS`, `styled-components`, `recoil`
+### 💻 기술 스택
+*  언어: `JavaScript`, `TypeScript`
+*  프론트: `React`
+*  상태 관리: `recoil`
+*  스타일: `styled-components`
 
 <br>
 
