@@ -3,7 +3,7 @@
 ### 💻 기술 스택
 *  언어: `JavaScript`, `TypeScript`
 *  프론트: `React`
-*  상태 관리: `recoil`
+*  상태 관리: `recoil`, `Zustand`
 *  스타일: `styled-components`
 
 <br>
